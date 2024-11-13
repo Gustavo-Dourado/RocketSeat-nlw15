@@ -12,7 +12,7 @@ Lista de participantes
 <br>
 
 <p align="center">
-  <img alt="projeto_Matrix" src=".github/preview-starwars.png" width="100%">
+  <img alt="projeto_NLW15" src=".github/preview-nlw15.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias 
